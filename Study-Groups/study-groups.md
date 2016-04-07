@@ -8,6 +8,7 @@
 - [André Machado](https://github.com/andresmachado)
 - [Jean Silva](https://github.com/fjeansilva)
 - [Itacir Pompeu](https://github.com/Pompeu )
+- [Mauricio Gravena](https://github.com/maugravena)
 
 ## Node.js
 - [Lucas Moreira](https://github.com/fauker)
@@ -21,6 +22,7 @@
 - [Geriel Castro](https://github.com/geriel)
 - [Paolo Almeida](https://github.com/paoloalmeida)
 - [Itacir Pompeu](https://github.com/Pompeu )
+- [Mauricio Gravena](https://github.com/maugravena)
 
 ### Autenticação
 Professor: [Caio Cutrim]()
@@ -48,6 +50,7 @@ Professor: [Itacir Pompeu](https://github.com/Pompeu)
 - [Alison Monteiro](https://github.com/alisonmonteiro)
 - [Vinicius Borges](https://github.com/BX-L)
 - [Salvador Torres](https://github.com/ssatorres)
+- [Igor Luíz](https://githib.com/Halfeld)
 
 ### Electron
 Professor: [Jonatas Freitas](https://github.com/jonatasfreitasv)
@@ -55,6 +58,7 @@ Professor: [Jonatas Freitas](https://github.com/jonatasfreitasv)
 - [Vinicius Reis](https://github.com/vinicius73)
 - [Marcelo Santos](https://github.com/MarceSanto)
 - [Itacir Pompeu](https://github.com/Pompeu )
+- [Igor Luíz](https://github.com/Halfeld)
 
 ## Angular
 
